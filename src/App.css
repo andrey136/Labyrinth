@@ -36,23 +36,10 @@ h1{
   background: rgba(143, 204, 255, 0.68);
 }
 
-.game .ball-right{
+.game .ball{
   position: absolute;
-  transition: margin 0.7s;
-  margin-left: 192.5px;
 }
-
-.game .ball-left{
+.wall{
   position: absolute;
-  margin-left: 0;
-  transition: margin 0.7s;
-}
-
-.wall-1{
-  top: 0;
-  position: absolute;
-  height: 400px;
-  width: 15px;
-  left: 242.5px;
   background: brown;
 }
