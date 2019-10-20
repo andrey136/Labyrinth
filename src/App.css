@@ -37,11 +37,22 @@ h1{
 }
 
 .game .ball-right{
-  transition: margin 3s;
-  margin-left: 450px;
+  position: absolute;
+  transition: margin 0.7s;
+  margin-left: 192.5px;
 }
 
 .game .ball-left{
+  position: absolute;
   margin-left: 0;
-  transition: margin 3s;
+  transition: margin 0.7s;
+}
+
+.wall-1{
+  top: 0;
+  position: absolute;
+  height: 400px;
+  width: 15px;
+  left: 242.5px;
+  background: brown;
 }
