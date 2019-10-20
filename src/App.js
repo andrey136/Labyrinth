@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import ball from './photos/download.jpg';
+import ball from './photos/soccerBall.png';
 import './App.css';
 import uniqid from 'uniqid';
 
