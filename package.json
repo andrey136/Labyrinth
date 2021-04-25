@@ -4,11 +4,14 @@
   "private": true,
   "homepage": "http://andrey136.github.io/Labyrinth",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.5.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-motion": "^0.5.2",
+    "react-redux": "^7.2.4",
     "react-scripts": "3.2.0",
     "react-transition-group": "^4.3.0",
+    "redux": "^4.1.0",
     "uniqid": "^5.0.3"
   },
   "scripts": {
